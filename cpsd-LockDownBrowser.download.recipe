@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>com.github.justinreeves00.download.cpsd-LockDownBrowser</string>
+	<key>Input</key>
+	<dict>
+		<key>BASE_URL</key>
+		<string>https://www.respondus.com/lockdown/download7.php?id=</string>
+		<key>INSTITUTION_ID</key>
+		<string>127544991</string>
+		<key>NAME</key>
+		<string>LockDownBrowser</string>
+		<key>SEARCH_URL</key>
+		<string>%BASE_URL%%INSTITUTION_ID%</string>
+		<key>USER_AGENT</key>
+		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.28.10 (KHTML, like Gecko) Version/6.0.3 Safari/536.28.10</string>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.aysiu.download.LockDownBrowser</string>
+	<key>ParentRecipeTrustInfo</key>
+	<dict>
+		<key>non_core_processors</key>
+		<dict/>
+		<key>parent_recipes</key>
+		<dict>
+			<key>com.github.aysiu.download.LockDownBrowser</key>
+			<dict>
+				<key>git_hash</key>
+				<string>1eba2cace74f124bbbe26418412dff0b4f788ec2</string>
+				<key>path</key>
+				<string>/Users/macadmin/Library/AutoPkg/RecipeRepos/com.github.autopkg.aysiu-recipes/LockDownBrowser/LockDownBrowser.download.recipe</string>
+				<key>sha256_hash</key>
+				<string>9845e544b300a61bd91650912b5bac632f0cdf0d2dd092699e3a9ac0e196855c</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
