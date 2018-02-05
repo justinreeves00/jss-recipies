@@ -11,7 +11,7 @@
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>cpsd-%NAME%-update-smart</string>
+		<string>autopkgr-%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>cpsd-SmartGroupTemplate.xml</string>
 		<key>NAME</key>
