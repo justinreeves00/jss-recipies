@@ -13,7 +13,7 @@
 		<key>GROUP_NAME</key>
 		<string>cpsd-%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplate.xml</string>
+		<string>cpsd-SmartGroupTemplate.xml</string>
 		<key>NAME</key>
 		<string>LockDown Browser</string>
 		<key>OS_REQUIREMENTS</key>
