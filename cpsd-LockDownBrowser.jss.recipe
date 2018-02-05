@@ -21,7 +21,7 @@
 		<key>POLICY_CATEGORY</key>
 		<string>Productivity</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>PolicyTemplate.xml</string>
+		<string>autorun-PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Secure Browser for test taking with canvas.</string>
 		<key>SELF_SERVICE_ICON</key>
