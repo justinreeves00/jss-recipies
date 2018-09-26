@@ -36,8 +36,6 @@
 		<dict>
 			<key>Arguments</key>
 			<dict>
-        <key>pkg_path</key>
-        <string>%pathname%</string>
 				<key>category</key>
 				<string>%CATEGORY%</string>
 				<key>groups</key>
