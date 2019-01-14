@@ -37,7 +37,7 @@
 			<key>Arguments</key>
 			<dict>
         <key>pkg_path</key>
-        <string>%RECIPE_CACHE_DIR%/%NAME%/Install Respondus LockDown Browser (x64c) 127544991.pkg</string>
+        <string>%RECIPE_CACHE_DIR%/%NAME%/Install Respondus LockDown Browser (x64c) 1275449910.pkg</string>
 				<key>category</key>
 				<string>%CATEGORY%</string>
 				<key>groups</key>
